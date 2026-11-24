@@ -56,15 +56,13 @@ Not borrowed: Peterson’s extra lines (statuary, gold leaf, vault lids), its fo
 
 ## Google reviews
 
-Not independently verified on Google. A Birdeye listing attributed comments and a 4.8 / 8-review figure to Google, but that listing was unclaimed and also included at least one review for a different business in the same building. The demo does not show a Google star rating or review count as confirmed. The four quoted comments are attributed to that Birdeye listing, not presented as verified Google reviews.
+Not independently verified on Google. No Google star rating or review count is shown.
 
-Source: Birdeye’s unclaimed listing for Dryden Monument Company, which attributes the reviews to Google: [https://reviews.birdeye.com/dryden-monument-company-168385304876217](https://reviews.birdeye.com/dryden-monument-company-168385304876217) (read 23 November 2026).
+A Birdeye listing for Dryden Monument Company at 57 W Main St, Dryden (https://reviews.birdeye.com/dryden-monument-company-168385304876217, read 23 November 2026) attributed comments to this shop and also included at least one review for a barber shop in the same building (Michael Brown). Because that listing mixes businesses, a quote is kept only when the text itself can be confirmed as being about Dryden Monument Company.
 
-- Birdeye states a **4.8** rating from **8 Google reviews** (Google count shown as “Google (8)”; Birdeye’s own count is 0).
-- Individual star ratings were not visible in that listing, so the demo shows stars only for the 4.8 aggregate. Review cards are not given a made-up star count.
-- Quoted verbatim on the home page: Phil Albro, Barb McCaskill, J Louis, and Katherine Jones.
-- Not quoted: Michael Brown’s Google review on the same listing, which is about a barber shop in the Dryden Monument Company building, not about a monument. Three of the eight reviews were not included in the Birdeye excerpt, so they are not invented or paraphrased. The button links to a Google Maps search for the business name and city.
+- Phil Albro, "Very helpful, patient, thorough explanations and descriptions." Generic wording; cannot confirm it is about this monument shop. Replaced with a labeled Sample card and no stars.
+- Barb McCaskill, "Salesman and owner were very helpful and didnt pressure me at all. Made a hard experience much easier." Generic wording; cannot confirm it is about this monument shop. Replaced with a labeled Sample card and no stars.
+- J Louis describes the quality of a monument for parents and the wait for completion. That subject matter is monument work, and the comment appears on this shop's Birdeye listing. Kept, attributed to that listing, with no star rating.
+- Katherine Jones names "Joe and Dennis at Dryden Monuments" and "Dryden Monument employees" who pressure-washed a headstone and added a name. Perkins Funeral Home's family history identifies Joe Bowers as owner of Dryden Monument Company and Dennis Totman as working for the monument business. Kept, attributed to the Birdeye listing, with no star rating.
 
-Hours on the demo follow the live site (“Monday - Friday 8:30AM to 4PM” and “Weekends by Appointment Only”), not third-party listings that disagree with that page.
-
-No email address is published. The contact form is a demo and does not submit.
+The "See reviews on Google" button is a Google Maps search for the business name and city.
